@@ -61,7 +61,7 @@ The `student_id` connects each student's records in the two tables.
 3. Run the following command:
 
 ```bash
-python student_grade_tracker.py
+dynamic.py
 ```
 
 4. The application will open in a new window.
