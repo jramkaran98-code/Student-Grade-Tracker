@@ -93,6 +93,32 @@ Potential future improvements include:
 * Search and filtering options
 * Grade reports and additional statistics
 
+## Application Screenshots
+
+### Main Dashboard
+
+The main interface provides access to the application's student management and statistics features.
+
+![Main Dashboard](screenshots/main-dashboard.png)
+
+### Add Student
+
+Students can be added with their personal information, subject marks, and additional subjects as needed.
+
+![Add Student](screenshots/add-student.png)
+
+### Student Records
+
+Student records are retrieved from the SQLite database and displayed with their subjects, marks, and calculated individual averages.
+
+![View Students](screenshots/view-students.png)
+
+### Class Statistics
+
+Class-level statistics are calculated from the student grade data stored in the database.
+
+![Class Statistics](screenshots/class-statistics.png)
+
 ## Author
 
 **Jeziel Ramkaran**
