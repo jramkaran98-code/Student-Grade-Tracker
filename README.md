@@ -50,23 +50,19 @@ The `student_id` connects each student's records in the two tables.
 ### Requirements
 
 * Python 3.x
+* VS Code
 * Tkinter (included with most standard Python installations)
 
 ### Run the Application
 
-1. Download or clone this repository.
+1. Download the repository from GitHub.
+2. Open the downloaded project folder in **VS Code**.
+3. Open `dynamic.py`.
+4. Click the **Run Python File** button in the top-right corner of VS Code.
+5. The application will open in a new window.
 
-2. Open the project folder in **VS Code** or a terminal.
+The SQLite database (`students.db`) will be created automatically when the application is run for the first time.
 
-3. Run the following command:
-
-```bash
-dynamic.py
-```
-
-4. The application will open in a new window.
-
-The SQLite database (`students.db`) is created automatically when the application is run for the first time.
 
 
 ## What I Learned
