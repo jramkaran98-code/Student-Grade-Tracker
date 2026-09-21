@@ -99,25 +99,30 @@ Potential future improvements include:
 
 The main interface provides access to the application's student management and statistics features.
 
-![Main Dashboard](screenshots/main-dashboard.png)
+<img width="742" height="535" alt="Main Dashboard" src="https://github.com/user-attachments/assets/6d8be0ff-4f32-469f-8dbf-5537efe15087" />
+
+
 
 ### Add Student
 
 Students can be added with their personal information, subject marks, and additional subjects as needed.
 
-![Add Student](screenshots/add-student.png)
+<img width="496" height="509" alt="Add Student" src="https://github.com/user-attachments/assets/8323f458-1196-4d87-9dcf-a7648dd9a647" />
+
 
 ### Student Records
 
 Student records are retrieved from the SQLite database and displayed with their subjects, marks, and calculated individual averages.
 
-![View Students](screenshots/view-students.png)
+<img width="623" height="727" alt="View Students" src="https://github.com/user-attachments/assets/fc5b2851-df12-42a7-980c-95de792e945a" />
+
 
 ### Class Statistics
 
 Class-level statistics are calculated from the student grade data stored in the database.
 
-![Class Statistics](screenshots/class-statistics.png)
+<img width="498" height="290" alt="Class Statistics" src="https://github.com/user-attachments/assets/4f1c8c3e-e355-48ca-93a3-e38e17d4bb1b" />
+
 
 ## Author
 
